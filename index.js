@@ -3,7 +3,7 @@ function iterativeLog(array1, callback){
 }
 
 function iterate(index, element, array) {
-  
+
 }
 
 function doToArray (array1, callback){
